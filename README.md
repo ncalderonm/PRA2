@@ -19,7 +19,6 @@ Analizar las características de los pasajeros del Titanic que influyeron en su 
 
 ● Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
 
-
 ## Resultados 
 
 Archivo csv: predicctions.csv
